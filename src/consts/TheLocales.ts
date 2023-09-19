@@ -10,7 +10,6 @@ export const Locales = [
   { value: "ar", label: "عربي" },
   { value: "ja", label: "日本語" },
   { value: "zh-TW", label: "繁體中文" },
-  { value: "ko", label: "한국어" },
   { value: "id", label: "Bahasa" },
   { value: "th", label: "ไทย" },
   { value: "vi", label: "Tiếng Việt" },
