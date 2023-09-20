@@ -272,42 +272,7 @@ export default function PageSeven() {
                         “自從有了AI Earn，告別了一杯茶一個走勢圖坐一下午的悲慘經歷。”
                       </Text>
                     </Flex>
-                    <Flex sx={styles.item} flexDir="column">
-                      <Flex alignItems="center">
-                        <Flex>
-                          <Image
-                            w="60px"
-                            h="60px"
-                            borderRadius="100%"
-                            src={avatar6}
-                          />
-                        </Flex>
-                        <Flex pl="1rem" flexDir="column">
-                          <Text
-                            fontSize="1.2rem"
-                            fontWeight="500"
-                            lineHeight="1.4rem"
-                          >
-                            한
-                          </Text>
-                          <Text
-                            fontSize={{
-                              base: "0.7rem",
-                              sm: "0.7rem",
-                              md: "0.8rem",
-                              lg: "0.9rem",
-                            }}
-                          >
-                            VIP3
-                          </Text>
-                        </Flex>
-                      </Flex>
-                      <Text sx={styles.useDes}>
-                        “내 주변 친구들은 암호화폐에 투자하고 있지만 그들 중
-                        누구도 돈을 벌기 위해 AI Earn 만큼 안정적이고 신뢰할 수
-                        없습니다.”
-                      </Text>
-                    </Flex>
+                    
                     <Flex sx={styles.item} flexDir="column">
                       <Flex alignItems="center">
                         <Flex>
